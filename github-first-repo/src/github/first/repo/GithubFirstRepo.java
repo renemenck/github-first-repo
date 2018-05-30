@@ -16,6 +16,10 @@ public class GithubFirstRepo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        imprimi();
+    }
+    
+    public static void imprimi(){
         System.out.println("Olá Mundo");
     }
     
